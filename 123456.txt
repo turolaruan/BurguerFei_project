@@ -1,0 +1,11 @@
+Nome: Sicrano 
+CPF: 123456 
+Senha: 123 
+Total: R$28.75
+Data: 2022-05-13 18:32
+Itens do pedido: 
+1 - X-Salada  Preco unitario:  10.00  Valor:  + 10.0 - Codigo: 1
+1 - Suco Natural  Preco unitario:  6.25  Valor:  + 6.25 - Codigo: 7
+2 - Cachorro quente  Preco unitario:  7.50  Valor:  + 15.0 - Codigo: 3
+1 - Salada de Frutas  Preco unitario:  5.50  Valor:  + 5.5 - Codigo: 5
+1 - Misto quente  Preco unitario:  8.00  Valor:  - 8.0 - Cancelado - Codigo: 4
